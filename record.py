@@ -9,8 +9,6 @@ To end recording:
 - Hold right click for 2 seconds then release to end the recording for mouse.
 - Press 'ESC' to end the recording for keyboard.
 - Both are needed to finish recording.
-
-print("Hello, World!")
 """
 import time
 import json
